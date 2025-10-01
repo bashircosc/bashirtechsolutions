@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechPlit — Adapting Innovation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Master the Future with Adaptive Technology</h1>
+        <p>Learn, build, and grow with TechPlit — where flexibility meets innovation.</p>
+        <div class="cta">
+            <button>Get Started</button>
+            <button>Join Our Community</button>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>Who We Are</h2>
+        <p>TechPlit is a flexible, future-focused tech platform offering learning, services, and digital solutions in AI, coding, UI/UX, and more.</p>
+        <h2>Our Mission</h2>
+        <p>To make tech skills accessible, adaptable, and transformative.</p>
+    </section>
+
+    <!-- What We Offer Section -->
+    <section class="offer">
+        <h2>What We Offer</h2>
+        <div class="offer-cards">
+            <div class="card">
+                <h3>Learn</h3>
+                <p>Courses, mentorship & digital skill training</p>
+            </div>
+            <div class="card">
+                <h3>Work</h3>
+                <p>Freelance services, tech project delivery</p>
+            </div>
+            <div class="card">
+                <h3>Teach</h3>
+                <p>Community-led content & expert contributions</p>
+            </div>
+            <div class="card">
+                <h3>Innovate</h3>
+                <p>Custom solutions for startups & clients</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose TechPlit Section -->
+    <section class="why-choose">
+        <h2>Why Choose TechPlit?</h2>
+        <ul>
+            <li>Adaptive learning methods</li>
+            <li>Real-world, project-based skill building</li>
+            <li>A growing network of tech minds</li>
+        </ul>
+    </section>
+
+    <!-- Client-focused Solutions Section -->
+    <section class="solutions">
+        <h2>Client-focused solutions powered by innovation</h2>
+    </section>
+
+    <!-- Testimonials / Impact Section (Optional) -->
+    <!-- Add later as you grow -->
+
+    <!-- Join Us / Contact Section -->
+    <section class="join-us">
+        <h2>Join the TechPlit Community</h2>
+        <div class="cta">
+            <button>Subscribe to our newsletter</button>
+            <button>Book a free consultation</button>
+            <button>Join the TechPlit Circle</button>
+        </div>
+        <form>
+            <input type="email" placeholder="Your email address">
+            <button>Subscribe</button>
+        </form>
+        <p>Or contact us on WhatsApp: <a href="https:                                              
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="contact-info">
+            <p>Contact us: <a href="mailto:info@techplit.com">info@techplit.com</a></p>
+        </div>
+        <div class="social-media">
+            <a href="#">LinkedIn</a>
+            <a href="              
+            <a href="#">Facebook</a>
+        </div>
+        <div class="legal">
+            <a href="                     
+            <a href="#">Terms</a>
+        </div>
+        <p>Powered by TechPlit &copy; 2025</p>
+    </footer>
+
+    <style>
+        /* Add some basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .hero {
+            background-image: linear-gradient(to bottom, #007bff, #0056b3);
+            color: #fff;
+            padding: 100px;
+            text-align: center;
+        }
+        .cta button {
+            background-color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .offer-cards {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .card {
+            background-color: #f7f7f7;
+            margin: 20px;
+            padding: 20px;
+            width: 200px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        footer a {
+            color: #fff;
+        }
+    </style>
+</body>
+</html>
